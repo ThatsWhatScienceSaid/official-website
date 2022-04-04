@@ -1,6 +1,6 @@
 ---
-title: Built For Speed
-subtitle: Awake is Built to Be Blazing Fast
+title: That's What Science Said
+subtitle: Connecting topics
 category:
   - About Awake
 author: Daniel Kelly
